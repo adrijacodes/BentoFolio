@@ -19,13 +19,13 @@ function Contact() {
         
         <div className="mt-6 space-x-6 flex justify-center ">
           <a href="https://github.com/adrijacodes" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
-            <SiGithub size={30} />
+            <SiGithub size={40} />
           </a>
           <a href="https://www.instagram.com/blueytani/?next=%2F" target="_blank" rel="noopener noreferrer" className="text-pink-400 hover:text-pink-600 transition-colors">
-            <SiInstagram size={30} />
+            <SiInstagram size={40} />
           </a>
           <a href="https://www.linkedin.com/in/adrija-gowri-654214254" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-600 transition-colors">
-            <SiLinkedin size={30} />
+            <SiLinkedin size={40} />
           </a>
         </div>
       </div>

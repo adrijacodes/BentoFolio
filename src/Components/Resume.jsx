@@ -3,7 +3,7 @@ import React from 'react';
 const Resume = () => {
   return (
     <div className="bg-SodaPop p-6 rounded-lg shadow-lg transform hover:scale-105 transition-transform duration-300">
-      <h1 className="text-blackholeburgundy font-boogaloo text-4xl text-center drop-shadow-lg mb-4">Resume</h1>
+      <h1 className="text-blackholeburgundy font-boogaloo text-5xl text-center drop-shadow-lg mb-4">Resume</h1>
       
       {/* Link to Download Resume */}
       <div className="flex justify-center ">

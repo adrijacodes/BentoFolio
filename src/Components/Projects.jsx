@@ -48,7 +48,7 @@ const Projects = () => {
                   href={project.codeLink} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="bg-gray-700 text-white px-4 py-3 rounded-full hover:bg-gray-800 transition-colors duration-300"
+                  className="bg-blue-600 text-white px-4 py-3 rounded-full hover:bg-blue-950 transition-colors duration-300"
                 >
                   Code
                 </a>

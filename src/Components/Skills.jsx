@@ -5,7 +5,7 @@ import { SiTailwindcss, SiUipath } from 'react-icons/si';
 function Skills() {
   return (
     <div className="p-8 bg-gradient-to-br from-purple-800 to-pink-700 shadow-xl rounded-lg hover:scale-105 transform transition-transform duration-300">
-      <h2 className="text-3xl font-boogaloo text-yellow-300 mb-6 text-center drop-shadow-lg ">
+      <h2 className="text-6xl font-boogaloo text-yellow-300 mb-6 text-center drop-shadow-lg ">
         Skills
       </h2>
       <ul className="space-y-4 text-lg text-white text-center ">
