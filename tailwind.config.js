@@ -24,7 +24,8 @@ export default {
         Purple: '#9d4edd', //accent color
         BrightYellow: '#ffee32',
         ceramic:'#f3e7d8',
-        blackholeburgundy: '#201e4b'
+        blackholeburgundy: '#201e4b',
+        looseChange:'#ffdb8c'
         
 
       }
