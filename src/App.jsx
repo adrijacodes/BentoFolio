@@ -141,11 +141,11 @@ const App = () => {
       <div className="bg-SodaPop col-span-1 row-span-1 rounded-lg p-4">
         <h2 className="text-2xl md:text-3xl font-boogaloo text-DarkNavy text-center mb-4">Connect With Me</h2>
         <div className="flex justify-around text-white text-2xl md:text-3xl">
-          <a href="mailto:adrijacodes@gmail.com"><SiGmail className="hover:scale-110 transition-transform" /></a>
+          <a href="mailto:gowriadrija@gmail.com"><SiGmail className="hover:scale-110 transition-transform" /></a>
           <a href="https://github.com/adrijacodes"><SiGithub className="hover:scale-110 transition-transform" /></a>
           <a href="https://www.linkedin.com/in/adrija-gowri-654214254"><SiLinkedin className="hover:scale-110 transition-transform" /></a>
-          <a href="tel:+919593207512"><IoMdCall className="hover:scale-110 transition-transform" /></a>
-          <a href="https://www.instagram.com/adrijacodes"><SiInstagram className="hover:scale-110 transition-transform" /></a>
+          <a href="tel:7980410273"><IoMdCall className="hover:scale-110 transition-transform" /></a>
+          <a href="https://www.instagram.com/blueytani"><SiInstagram className="hover:scale-110 transition-transform" /></a>
         </div>
       </div>
     </div>
