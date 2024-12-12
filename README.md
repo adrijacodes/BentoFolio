@@ -1,8 +1,8 @@
-Bentofolio
+**Bentofolio**
 
 Welcome to Bentofolio! This project is an anime-inspired portfolio designed to showcase your skills, projects, and achievements in a creative and visually appealing manner.
 
-Features
+*Features*
 
 Anime-Inspired Design: Unique aesthetics to capture the essence of anime culture.
 
@@ -12,7 +12,7 @@ Interactive Components: Engaging UI elements to enhance user experience.
 
 Customizable: Tailor the content and styling to suit your personal brand.
 
-Technologies Used
+*Technologies Used*
 
 Frontend: React.js
 
@@ -23,7 +23,7 @@ Additional Tools:
 FontAwesome for icons
 
 
-Installation
+*Installation*
 
 To set up and run the project locally, follow these steps:
 
@@ -46,5 +46,5 @@ npm start
 Open in Browser
 Visit http://localhost:3000 in your browser to view the portfolio.
 
-Author
+*Author*
 . Adrija Gowri
